@@ -1,0 +1,22 @@
+export const MOVIES = [
+    {title: 'The Shawshank Redemption', year: 1994, rating: 9.2},
+    {title: 'The Dark Knight', year: 2008, rating: 9.0},
+    {title: 'Inception', year: 2010, rating: 8.7},
+    {title: 'Fight Club', year: 1999, rating: 8.8},
+    {title: 'Pulp Fiction', year: 1994, rating: 8.8},
+    {title: 'Forrest Gump', year: 1994, rating: 8.7},
+    {title: 'The Matrix', year: 1999, rating: 8.6},
+    {title: 'The Lord of the Rings: The Fellowship of the Ring', year: 2001, rating: 8.8},
+    {title: 'The Lord of the Rings: The Return of the King', year: 2003, rating: 8.9},
+    {title: 'The Godfather', year: 1972, rating: 9.1},
+    {title: 'Interstellar', year: 2014, rating: 8.5},
+    {title: 'The Dark Knight Rises', year: 2012, rating: 8.3},
+    {title: 'The Lord of the Rings: The Two Towers', year: 2002, rating: 8.7},
+    {title: 'Seven', year: 1995, rating: 8.6},
+    {title: 'Django Unchained', year: 2012, rating: 8.4},
+    {title: 'Gladiator', year: 2000, rating: 8.5},
+    {title: 'Batman Begins', year: 2005, rating: 8.2},
+    {title: 'Inglourious Basterds', year: 2009, rating: 8.3},
+    {title: 'The Silence of the Lambs', year: 1991, rating: 8.6},
+    {title: 'Saving Private Ryan', year: 1998, rating: 8.6}
+]
