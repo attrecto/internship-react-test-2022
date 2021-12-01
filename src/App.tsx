@@ -5,7 +5,7 @@ import React, {FC} from 'react';
 const App: FC = ()=> {
   return (
     <div className="container mt-4">
-     <h4>Welcome to the Attrecto's React internship program 2022 test!</h4>
+     <h4>Attrecto - React internship program 2022 test - starter template</h4>
     </div>
   );
 }
